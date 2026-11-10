@@ -28,6 +28,7 @@
                 Grade = "Fail";
             }
             Console.WriteLine(Grade);
+
         }
     }
 }
